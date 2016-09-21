@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Brody Eller"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Brody Eller"
+description              : "A website where I'll post politics and applications I'm working on."
+url                      : https://brodyeller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :brodlycooper
 facebook:
   username               :
   app_id                 :
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brody Eller"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I'm 16 years old and a junior in high school. I enjoy programming and running cross country. I haven't released any apps yet, but hopefully I'll have one soon! I love to watch movies and my favorite is October Sky."
   location         : "Somewhere"
   email            :
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          :brodlycooper
   vine             :
   weibo            :
   xing             :
