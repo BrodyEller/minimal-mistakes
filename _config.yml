@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Brody Eller"
   avatar           : "avatar.jpeg"
-  bio              : "I'm 16 years old and a junior in high school. I enjoy programming and running cross country. I haven't released any apps yet, but hopefully I'll have one soon! I love to watch movies and my favorite is October Sky."
+  bio              : "I'm a junior in high school who enjoys programming and running cross country."
   location         : "New Jersey"
   email            :
   uri              :
@@ -89,22 +89,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : BrodyEller
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : brodlycooper
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 2455722/user2455722 # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : brodlycooper
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : wviper3
 
 
 # Reading Files
